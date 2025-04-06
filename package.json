@@ -1,0 +1,24 @@
+{
+  "name": "professional_backend_project",
+  "version": "1.0.0",
+  "description": "a backend for my project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sandeshnits27/Professional_Backend_Project.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "sandesh"
+  ],
+  "author": "Sandipan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sandeshnits27/Professional_Backend_Project/issues"
+  },
+  "homepage": "https://github.com/Sandeshnits27/Professional_Backend_Project#readme"
+}
